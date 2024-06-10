@@ -9,7 +9,7 @@ Olá! Sou Aparecido Araujo, estudante de Análise e Desenvolvimento de Sistemas,
 ### Me encontre
 
 [![E-mail : araujo448@outlook.com](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](araujo448@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](linkedin.com/in/aparecidoaraujodevs)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/aparecidoaraujodevs)
 
 
 ### Habilidades
@@ -36,7 +36,7 @@ Olá! Sou Aparecido Araujo, estudante de Análise e Desenvolvimento de Sistemas,
 ## Contato
 - GitHub: [araujoDevs](https://github.com/araujoDevslink)
 - Email: araujo448@outlook.com
-- LinkedIn: [Aparecodo de oliveira araujo](linkedin.com/in/aparecidoaraujodevs)
+- LinkedIn: [Aparecodo de oliveira araujo](https://www.linkedin.com/in/aparecidoaraujodevs)
 
 Fique à vontade para entrar em contato comigo para discutir colaborações ou oportunidades de contribuição!
 
